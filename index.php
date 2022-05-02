@@ -320,7 +320,7 @@
 		</div><br>
 		<div id="contact" class="footer">
 			<hr>
-			<h2 class="foot-text">Contact Us!</h2>
+			
 			
 		</div>
 	</body>
