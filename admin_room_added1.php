@@ -43,7 +43,7 @@
 	  	background-color: rgba(09,41,98,0.9);
 	  	text-decoration: none;
 	  	position: fixed;
-	  	height: 100%;
+	  	height: 110%;
 	  	overflow: auto;
 	}
 	li {
